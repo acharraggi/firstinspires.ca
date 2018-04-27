@@ -10,40 +10,46 @@ FIRST is a not-for-profit organization devoted to helping young people discover 
 
 <img alt="Map of Canada" height="469" src="/firstinspires.ca/assets/images/CanadaMap.jpg" usemap="#Map" width="570">
 
+<a name="AB"></a>
 ## Aberta
-<a name="AB">FIRST Robotics Society</a>
-FLL Jr. - http://frcwest.com/jr-fll-program/
-FLL - http://frcwest.com/fll-program/
-FTC - https://www.ftcalberta.ca/
-FRC - http://frcwest.com/frc-program/
+FIRST Robotics Society
+* FLL Jr. - http://frcwest.com/jr-fll-program/
+* FLL - http://frcwest.com/fll-program/
+* FTC - https://www.ftcalberta.ca/
+* FRC - http://frcwest.com/frc-program/
 
+<a name="BC"></a>
 ## British Columbia
-<a name="BC">FIRST Robotics BC</a>
-FLL Jr. - https://firstroboticsbc.org/flljr/
-FLL - https://firstroboticsbc.org/fll/
-FTC - https://firstroboticsbc.org/ftc/
-FRC - http://frcwest.com/ (BC teams compete in the Canadian Pacific Regional tournament)
+FIRST Robotics BC
+* FLL Jr. - https://firstroboticsbc.org/flljr/
+* FLL - https://firstroboticsbc.org/fll/
+* FTC - https://firstroboticsbc.org/ftc/
+* FRC - http://frcwest.com/ (BC teams compete in the Canadian Pacific Regional tournament)
 
-## Saskatchewan 
 <a name="SK"></a>
-FLL - http://www.cs.uregina.ca/FutureStudents/K12/FLL/
+## Saskatchewan 
+* FLL - http://www.cs.uregina.ca/FutureStudents/K12/FLL/
 
+<a name="ON"></a>
 ## Ontario
-<a name="ON">FIRST Robotics Canada</a>
-FLL Jr. - http://www.firstroboticscanada.org/flljr/flljrontario/
-FLL - http://www.firstroboticscanada.org/fll/fllontario/
-FRC - http://www.firstroboticscanada.org/frc/frcontario/
+FIRST Robotics Canada
+* FLL Jr. - http://www.firstroboticscanada.org/flljr/flljrontario/
+* FLL - http://www.firstroboticscanada.org/fll/fllontario/
+* FRC - http://www.firstroboticscanada.org/frc/frcontario/
 
+<a name="QC"></a>
 ## Quebec
-<a name="QC">Robotique FIRST Québec</a>
-FLL - http://robotiquefirstquebec.org/fll/
-FLL Jr. - http://robotiquefirstquebec.org/jrfll/
-FRC - http://robotiquefirstquebec.org/frc/
+Robotique FIRST Québec</a>
+* FLL - http://robotiquefirstquebec.org/fll/
+* FLL Jr. - http://robotiquefirstquebec.org/jrfll/
+* FRC - http://robotiquefirstquebec.org/frc/
 
+<a name="NF"></a>
 ## Nova Scotia
-<a name="NF">Acadia Robotics Program</a>
-FLL - https://robots.acadiau.ca/fll-infoqualifiers.html
+Acadia Robotics Program</a>
+* FLL - https://robots.acadiau.ca/fll-infoqualifiers.html
 
+<a name="NF"></a>
 ## Newfoundland & Labrador
-<a name="NF">FIRST Technology Association, Inc.</a>
-FLL - http://fllnl.org/
+FIRST Technology Association, Inc.</a>
+* FLL - http://fllnl.org/
