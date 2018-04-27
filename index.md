@@ -44,7 +44,7 @@ Robotique FIRST Québec</a>
 * FLL - [http://robotiquefirstquebec.org/fll/](http://robotiquefirstquebec.org/fll/)
 * FRC - [http://robotiquefirstquebec.org/frc/](http://robotiquefirstquebec.org/frc/)
 
-<a name="NF"></a>
+<a name="NS"></a>
 ## Nova Scotia
 Acadia Robotics Program</a>
 * FLL - [https://robots.acadiau.ca/fll-infoqualifiers.html](https://robots.acadiau.ca/fll-infoqualifiers.html)
