@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
-![Branching](https://assets/images/CanadaMap.jpg)
+![Canada Map]({{ "/assets/images/CanadaMap.jpg" | absolute_url }})
 
 ## Header 2
 
