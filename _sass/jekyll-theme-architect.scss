@@ -69,6 +69,13 @@ header h2::before {
   margin: 0 auto;
 }
 
+.inner .lang {
+    float: right;
+  color: #fff;
+  list-style-type: none;
+  display:inline;
+}
+
 #content-wrapper {
   padding-top: 30px;
   border-top: solid 1px #fff;
