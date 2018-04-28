@@ -73,12 +73,15 @@ header h2::before {
   float: right;
 }
 
-ul.lang {
+.inner ul.lang {
   list-style-type: none;
   display:inline;
 }
-.lang a {
+.inner .lang a {
   color: #fff;
+}
+.inner .lang li {
+  display: inline-block;
 }
 
 #content-wrapper {
