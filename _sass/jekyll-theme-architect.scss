@@ -43,7 +43,7 @@ header h1 {
 }
 
 header h1::before { 
-    content: "FIRST";
+    content: "FIRST ";
     font-style: italic;
 }
 
@@ -59,7 +59,7 @@ header h2 {
 }
 
 header h2::before { 
-    content: "FIRST";
+    content: "FIRST - ";
     font-style: italic;
 }
 
