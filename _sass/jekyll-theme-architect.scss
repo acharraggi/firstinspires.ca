@@ -74,9 +74,11 @@ header h2::before {
 } */
 
 ul.lang {
-  color: #fff;
   list-style-type: none;
   display:inline;
+}
+li.lang {
+  color: #fff;
 }
 
 #content-wrapper {
