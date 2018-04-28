@@ -16,42 +16,42 @@ ref: index
 ## Aberta
 *FIRST* Robotics Society  
 * [FIRST LEGO League Jr.](http://frcwest.com/jr-fll-program/)
-* [FIRST LEGO League](http://frcwest.com/fll-program/>)
+* [FIRST LEGO League](http://frcwest.com/fll-program/)
 * [FIRST Tech Challenge](https://www.ftcalberta.ca/)
 * [FIRST Robotics Competition](http://frcwest.com/frc-program/)
 
 <a name="BC"></a>
 ## British Columbia
 *FIRST* Robotics BC
-* FLL Jr. - <https://firstroboticsbc.org/flljr/>
-* FLL - <https://firstroboticsbc.org/fll/>
-* FTC - <https://firstroboticsbc.org/ftc/>
-* FRC - <https://firstroboticsbc.org/ftc/>
+* [FIRST LEGO League Jr.](https://firstroboticsbc.org/flljr/)
+* [FIRST LEGO League](https://firstroboticsbc.org/fll/)
+* [FIRST Tech Challenge](https://firstroboticsbc.org/ftc/)
+* [FIRST Robotics Competition](https://firstroboticsbc.org/ftc/)
 
 <a name="SK"></a>
 ## Saskatchewan 
-* FLL - <http://www.cs.uregina.ca/FutureStudents/K12/FLL/>
+* [FIRST LEGO League](http://www.cs.uregina.ca/FutureStudents/K12/FLL/)
 
 <a name="ON"></a>
 ## Ontario
 *FIRST* Robotics Canada
-* FLL Jr. - <http://www.firstroboticscanada.org/flljr/flljrontario/>
-* FLL - <http://www.firstroboticscanada.org/fll/fllontario/>
-* FRC - <http://www.firstroboticscanada.org/frc/frcontario/>
+* [FIRST LEGO League Jr.](http://www.firstroboticscanada.org/flljr/flljrontario/)
+* [FIRST LEGO League](http://www.firstroboticscanada.org/fll/fllontario/)
+* [FIRST Robotics Competition](http://www.firstroboticscanada.org/frc/frcontario/)
 
 <a name="QC"></a>
 ## Quebec
 Robotique *FIRST* Québec
-* FLL Jr. - <http://robotiquefirstquebec.org/jrfll/>
-* FLL - <http://robotiquefirstquebec.org/fll/>
-* FRC - <http://robotiquefirstquebec.org/frc/>
+* [FIRST LEGO League Jr.](http://robotiquefirstquebec.org/jrfll/)
+* [FIRST LEGO League](http://robotiquefirstquebec.org/fll/)
+* [FIRST Robotics Competition](http://robotiquefirstquebec.org/frc/)
 
 <a name="NS"></a>
 ## Nova Scotia
 Acadia Robotics Program
-* FLL - <https://robots.acadiau.ca/fll-infoqualifiers.html>
+* [FIRST LEGO League](https://robots.acadiau.ca/fll-infoqualifiers.html)
 
 <a name="NF"></a>
 ## Newfoundland & Labrador
 *FIRST* Technology Association, Inc.
-* FLL - <http://fllnl.org/>
+* [FIRST LEGO League](http://fllnl.org/)
