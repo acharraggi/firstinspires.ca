@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Hello world!
 lang: en
 ref: index
 ---
