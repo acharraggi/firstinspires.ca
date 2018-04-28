@@ -18,6 +18,8 @@
     <header>
       <div class="inner">
 <ul class="lang">
+  
+  {% comment %}
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
   <li>
@@ -32,12 +34,14 @@
   {% endcase %}</a>
   </li>
 {% endfor %}
+  {% endcomment %}
 
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-{% for page in pages %}
+{% for p in pages %}
+  {% if page.lang != p.lang %}
   <li>
-    <a href="{{ site.url }}{{ page.url }}" class="{{ page.lang }}">
-  {% case page.lang %}
+    <a href="{{ site.url }}{{ p.url }}" class="{{ p.lang }}">
+  {% case p.lang %}
   {% when 'en' %}
      English
   {% when 'fr' %}
