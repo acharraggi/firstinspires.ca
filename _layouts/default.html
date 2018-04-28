@@ -21,14 +21,30 @@
 {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
 {% for post in posts %}
   <li>
-    <a href="{{ site.url }}{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+    <a href="{{ site.url }}{{ post.url }}" class="{{ post.lang }}">
+  {% case post.lang %}
+  {% when 'en' %}
+     English
+  {% when 'fr' %}
+     Français
+  {% else %}
+     unknown
+  {% endcase %}</a>
   </li>
 {% endfor %}
 
 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
 {% for page in pages %}
   <li>
-    <a href="{{ site.url }}{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+    <a href="{{ site.url }}{{ page.url }}" class="{{ page.lang }}">
+  {% case page.lang %}
+  {% when 'en' %}
+     English
+  {% when 'fr' %}
+     Français
+  {% else %}
+     unknown
+  {% endcase %}</a>
   </li>
 {% endfor %}
 </ul>
