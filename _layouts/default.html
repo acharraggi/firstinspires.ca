@@ -6,19 +6,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" media="screen" type="text/css">
     <link rel="stylesheet" href="{{ '/assets/css/print.css' | relative_url }}" media="print" type="text/css">
+    {% comment %}
     {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
     {% for post in posts %}
       <link rel="alternate" hreflang="{{ post.lang }}" href="{{ post.url }}" />
     {% endfor %}
+    {% endcomment %}
     {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-    {% for page in pages %}
-      <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />
+    {% for p in pages %}
+      {% if page.lang != p.lang %}
+        <link rel="alternate" hreflang="{{ p.lang }}" href="{{ site.url }}{{ p.url }}" />
+      {% endif %}
     {% endfor %}
-
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
 {% seo %}
   </head>
 
