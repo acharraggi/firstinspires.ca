@@ -21,7 +21,24 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
+{% comment %}
 {% seo %}
+{% comment %}
+    <title>FIRST Inspires Canada</title>
+    <meta property="og:title" content="FIRST Inspires Canada" />
+    <meta property="og:locale" content="{{ page.lang }}" />
+{% case post.lang %}
+{% when 'en' %}
+    <meta name="description" content="{{ site.description }}" />
+    <meta property="og:description" content="{{ site.description }}" />
+{% when 'fr' %}
+    <meta name="description" content="{{ site.description_fr }}" />
+    <meta property="og:description" content="{{ site.description_fr }}" />
+{% else %}
+{% endcase %}
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="og:site_name" content="FIRST Inspires Canada" />
   </head>
 
   <body class="{{ page.lang }}">
@@ -41,7 +58,8 @@
      Français
   {% else %}
      unknown
-  {% endcase %}</a>
+  {% endcase %}
+    </a>
   </li>
 {% endfor %}
   {% endcomment %}
