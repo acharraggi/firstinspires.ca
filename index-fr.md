@@ -15,10 +15,10 @@ ref: index
 <a name="AB"></a>
 ## Aberta
 *FIRST* Robotics Society  
-* FLL Jr. - <http://frcwest.com/jr-fll-program/>
-* FLL - <http://frcwest.com/fll-program/>
-* FTC - <https://www.ftcalberta.ca/>
-* FRC - <http://frcwest.com/frc-program/>
+* [Ligue Junior LEGO FIRST](http://frcwest.com/jr-fll-program/)
+* [Ligue LEGO FIRST](http://frcwest.com/fll-program/)
+* [Défi Tech FIRST](https://www.ftcalberta.ca/)
+* [Compétition de Robotique FIRST](http://frcwest.com/frc-program/)
 
 <a name="BC"></a>
 ## British Columbia
